@@ -15,6 +15,9 @@
     <link rel="stylesheet" href="assets/css/templatemo-sixteen.css">
     <link rel="stylesheet" href="assets/css/owl.css">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+
   </head>
 
   <body>
@@ -48,14 +51,14 @@
                 <a class="nav-link" href="about.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.php">Booking</a>
+                <a class="nav-link" href="bookings.php">Booking</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link" href="products.html">Our Products</a>
               </li> -->
 
               <li class="nav-item">
-                <a class="nav-link" href="contact.php">Gallery</a>
+                <a class="nav-link" href="gallery.php">Gallery</a>
               </li>
 
             
